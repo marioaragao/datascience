@@ -18,8 +18,8 @@ Analista de sistemas e desenvolvedor, com experiência em pesquisa, sistemas de 
 Formação: Ciência da Computação e Gestão de Tecnologia da Informação.
 
 **Links:**
-* [Blog](http://marioaragao.com.br)
-* [LinkedIn](https://www.linkedin.com/in/mario-de-aragão-brazil/)
-* [Medium](https://www.medium.com)
+* [Blog](https://marioaragao.com.br)
+* [LinkedIn](https://www.linkedin.com/in/mario-de-aragao)
+* [Medium](https://medium.com/@marioaragao)
 
 ---
