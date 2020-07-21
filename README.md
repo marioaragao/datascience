@@ -2,7 +2,7 @@
   <img src="marioaragao.png" >
 </p>
 
-Veja aqui alguns projetos, códigos e estudos que tenho feito:
+Veja aqui alguns projetos, códigos e estudos:
 
 ## Projetos:
 
